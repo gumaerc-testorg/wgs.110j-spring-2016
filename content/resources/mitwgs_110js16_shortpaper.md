@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding sexual and gender identities:
   Assignments.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/wgs-110j-sexual-and-gender-identities-spring-2016/e71fbd552ec703199c7a4c67f61f9023_MITWGS_110JS16_ShortPaper.pdf
+file: /media/courses/wgs-110j-sexual-and-gender-identities-spring-2016/e71fbd552ec703199c7a4c67f61f9023_MITWGS_110JS16_ShortPaper.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.110J/21H.108J S16 Sexual and Gender Identities in the US - Assignments:
   Short Paper'

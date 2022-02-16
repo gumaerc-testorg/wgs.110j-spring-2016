@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings and Films
+parent_type: CourseSection
 parent_uid: cc60c561-0e01-57db-489a-c05448b69dd1
 title: Readings and Films Guides
 uid: d0638dee-40ed-f4c8-f4b0-e0c4d38cd81b

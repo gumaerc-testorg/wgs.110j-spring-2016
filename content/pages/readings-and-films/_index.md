@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Films
 uid: cc60c561-0e01-57db-489a-c05448b69dd1
 ---
@@ -282,7 +285,7 @@ Bailey, Beth. "Sexual Revolution(s)." Chapter 8 in _The Sixties: From Memory to 
 
 "[Birth Control and Black Children: A Statement by the Black Unity (Peekskill, N.Y.)," and "A Response: By Black Sisters](http://library.duke.edu/digitalcollections/wlmpc_wlmms01008/)." _Poor Black Women_, Duke University Libraries Digital Collections.
 
-Friedan, Betty. "The Problem That Has No Name." Chapter 1 in _The Feminine Mystique_. 50th anniversary edition. W. W. Norton & Company, 2013. ISBN: 9780393346787.
+Friedan, Betty. "The Problem That Has No Name." Chapter 1 in _The Feminine Mystique_. 50{{< sup "th" >}} anniversary edition. W. W. Norton & Company, 2013. ISBN: 9780393346787.
 
 Hanisch, Carol. "[The Personal is Political: Introduction - January 2006](http://www.carolhanisch.org/CHwritings/PIP.html)," carolhanisch.org.
 
@@ -406,7 +409,7 @@ Culture Wars II: Pornography, Representation, and Sexual Harassment / Violence
 
 \[K\] Meritor Savings Bank v. Mechelle Vinson et al., 1986.
 
-Duggan, Lisa, Nan D. Hunter, et al. "[False Promises: Feminist Anti-Pornography Legislation](https://litigation-essentials.lexisnexis.com/webcd/app?action=DocumentDisplay&crawlid=1&doctype=cite&docid=38+N.Y.L.+Sch.+L.+Rev.+133&srctype=smi&srcid=3B15&key=575469c7d904f51e2e16dea37501fc18)." _New York Law School Review_ 38 (1993): 133–63.
+Duggan, Lisa, Nan D. Hunter, et al. "[False Promises: Feminist Anti-Pornography Legislation](https://socialistregister.com/index.php/srv/article/download/5624/2522/)." _New York Law School Review_ 38 (1993): 133–63.
 
 Dworkin, Andrea. "Pornography: Men Possessing Women." In _Feminism in Our Time: The Essential Writings, World War II to the Present_. Edited by Miriam Schneir. Vintage, 1994. ISBN: 9780679745082.
 
@@ -430,7 +433,7 @@ Lefkovitz, Alison. "['Sodomy is Not Adultery': The Clinton Sex Scandal as Queer 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**Unit 6 – Sexuality and Gender in the 21st Century: Diverging Currents?**
+**Unit 6 – Sexuality and Gender in the 21{{< sup "st" >}} Century: Diverging Currents?**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -528,7 +531,7 @@ Horowitz, Jules. "[How the GOP is Using 'Bathroom Bills' to Save the Establishme
 
 Jarvis, Craig. "[Gov. McCrory Defends NC's HB2 on 'Meet the Press'](http://www.charlotteobserver.com/news/politics-government/article72324082.html)," _Charlotte Observer_, April 17, 2016.
 
-Koyama, Emi. "The Transfeminist Manifesto." In _Catching a Wave: Reclaiming Feminism for the 21st Century_. Edited by Rory Dicker and Alison Peipmeier. Northeastern, 2003. ISBN: 9781555535704. \[Preview with [Google Books](http://books.google.com/books?id=h9ku-gW2wj8C&pg=PA244=onepage)\]
+Koyama, Emi. "The Transfeminist Manifesto." In _Catching a Wave: Reclaiming Feminism for the 21{{< sup "st" >}} Century_. Edited by Rory Dicker and Alison Peipmeier. Northeastern, 2003. ISBN: 9781555535704. \[Preview with [Google Books](http://books.google.com/books?id=h9ku-gW2wj8C&pg=PA244=onepage)\]
 
 ———. "Whose Feminism is it Anyway? The Unspoken Racism of the Trans Inclusion Debate." Chapter 49 in _The Transgender Studies Reader_. Edited by Susan Stryker and Stephen Whittle. Routledge, 2006. ISBN: 9780415947091. \[Preview with [Google Books](http://books.google.com/books?id=HBRR1isU-VAC&pg=PA698=onepage)\]
 

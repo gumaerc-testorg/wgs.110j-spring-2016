@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fc1a7a78-4b35-7d4b-f0a2-bd35859bf012
 ---
@@ -281,7 +283,7 @@ Culture Wars II: Pornography, Representation, and Sexual Harassment / Violence
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**Unit 6 – Sexuality and Gender in the 21st Century: Diverging Currents?**
+**Unit 6 – Sexuality and Gender in the 21{{< sup "st" >}} Century: Diverging Currents?**
 {{< tdclose >}}
 
 {{< trclose >}}
