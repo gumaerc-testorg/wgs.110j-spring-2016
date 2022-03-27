@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Films Guides
 parent_type: CourseSection
+parent_uid: d0638dee-40ed-f4c8-f4b0-e0c4d38cd81b
 resourcetype: Document
 title: 'WGS.110J/21H.108J S16 Sexual and Gender Identities in the US - Reading Guides:
   Reproduction'

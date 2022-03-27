@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3eed3d00-9869-1745-7f96-12087922da21
 resourcetype: Document
 title: 'WGS.110J/21H.108J S16 Sexual and Gender Identities in the US - Assignments:
   Short Paper'
