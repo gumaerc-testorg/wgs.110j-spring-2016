@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the assignments for the course, writing guidelines,
+  and links to selected online databases to be used as primary source research for
+  the final paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +22,7 @@ Student-Led Discussion
 
 Over the course of the term students will be responsible for leading, with a group of one or two other students, an in-class discussion of the assigned materials for a single week.
 
-[Student-Led Discussion Guidelines (PDF)]({{< baseurl >}}/resources/mitwgs_110js16_discussion)
+{{% resource_link ffb379b2-0a72-e52b-89f4-e80eca72ad72 "Student-Led Discussion Guidelines (PDF)" %}}
 
 Leading a discussion is worth 10% of the overall course grade.
 
@@ -28,7 +31,7 @@ Short Paper
 
 For the short paper, students will select one of three given topics and write a 4–6 page paper.
 
-[Short Paper Guidelines (PDF)]({{< baseurl >}}/resources/mitwgs_110js16_shortpaper)
+{{% resource_link e71fbd55-2ec7-0319-9c7a-4c67f61f9023 "Short Paper Guidelines (PDF)" %}}
 
 The short paper is worth 20% of the overall course grade.
 
@@ -37,7 +40,7 @@ Final Paper
 
 For the final assignment of the course, students will be asked to write a 7–10 page original research paper on a topic of their choosing. This topic should relate in some way to the history of sexuality and gender in the United States, and to the major themes we have addressed in class over the course of the semester.
 
-[Final Paper Guidelines (PDF)]({{< baseurl >}}/resources/mitwgs_110js16_finalpaper)
+{{% resource_link 7c5c6229-9d1f-2444-9599-86293c50686a "Final Paper Guidelines (PDF)" %}}
 
 The final paper is worth 30% of the overall course grade.
 

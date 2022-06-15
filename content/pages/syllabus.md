@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, required texts, grading, resources and policies,
+  and the schedule of course topics and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,14 +27,14 @@ This subject offers an introduction to the history of gender, sex, and sexuality
 Required Texts
 --------------
 
-All required readings for the course can be found in the table in the [Readings and Films]({{< baseurl >}}/pages/readings-and-films) section. The average reading load per week is roughly 80–120pp.
+All required readings for the course can be found in the table in the {{% resource_link cc60c561-0e01-57db-489a-c05448b69dd1 "Readings and Films" %}} section. The average reading load per week is roughly 80–120pp.
 
 Graded Assignments
 ------------------
 
 This subject is conducted as a discussion-based seminar. Assigned readings and films facilitate our in-class discussions. Students are required to submit a one-page response to assigned readings before class each week (students may choose five weeks in which to skip this assignment). In addition to these short response papers, each student is responsible for leading one in-class discussion, writing one short paper, and completing a final research paper on a topic relevant to course themes and materials.
 
-Further information can be found in the [Assignments]({{< baseurl >}}/pages/assignments) section.
+Further information can be found in the {{% resource_link 3eed3d00-9869-1745-7f96-12087922da21 "Assignments" %}} section.
 
 Grading Policy
 --------------

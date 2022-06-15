@@ -3,7 +3,7 @@ content_type: resource
 description: On June 26, 2013, people gathered at the Stonewall Inn in New York's
   Greenwich Village to celebrate the Supreme Court rulings affirming LGBT marriage
   equality. Image courtesy of Michael Fleshman on flickr. License CC BY-NC.
-file: /media/courses/wgs-110j-sexual-and-gender-identities-spring-2016/1bbff459fa8e977b0e312428014a129f_wgs-110js16-th.jpg
+file: /courses/wgs-110j-sexual-and-gender-identities-spring-2016/1bbff459fa8e977b0e312428014a129f_wgs-110js16-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: On June 26, 2013, people gathered at the Stonewall Inn in New York's Greenwich
@@ -19,3 +19,5 @@ resourcetype: Image
 title: wgs-110js16-th.jpg
 uid: 1bbff459-fa8e-977b-0e31-2428014a129f
 ---
+On June 26, 2013, people gathered at the Stonewall Inn in New York's Greenwich Village to celebrate the Supreme Court rulings affirming LGBT marriage equality. Image courtesy of Michael Fleshman on flickr. License CC BY-NC.
+
