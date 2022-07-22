@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section contains the readings and films for the course, as well
+  as their accompanying guides. '
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Films
 uid: cc60c561-0e01-57db-489a-c05448b69dd1
 ---
@@ -282,7 +287,7 @@ Bailey, Beth. "Sexual Revolution(s)." Chapter 8 in _The Sixties: From Memory to 
 
 "[Birth Control and Black Children: A Statement by the Black Unity (Peekskill, N.Y.)," and "A Response: By Black Sisters](http://library.duke.edu/digitalcollections/wlmpc_wlmms01008/)." _Poor Black Women_, Duke University Libraries Digital Collections.
 
-Friedan, Betty. "The Problem That Has No Name." Chapter 1 in _The Feminine Mystique_. 50th anniversary edition. W. W. Norton & Company, 2013. ISBN: 9780393346787.
+Friedan, Betty. "The Problem That Has No Name." Chapter 1 in _The Feminine Mystique_. 50{{< sup "th" >}} anniversary edition. W. W. Norton & Company, 2013. ISBN: 9780393346787.
 
 Hanisch, Carol. "[The Personal is Political: Introduction - January 2006](http://www.carolhanisch.org/CHwritings/PIP.html)," carolhanisch.org.
 
@@ -406,11 +411,11 @@ Culture Wars II: Pornography, Representation, and Sexual Harassment / Violence
 
 \[K\] Meritor Savings Bank v. Mechelle Vinson et al., 1986.
 
-Duggan, Lisa, Nan D. Hunter, et al. "[False Promises: Feminist Anti-Pornography Legislation](https://litigation-essentials.lexisnexis.com/webcd/app?action=DocumentDisplay&crawlid=1&doctype=cite&docid=38+N.Y.L.+Sch.+L.+Rev.+133&srctype=smi&srcid=3B15&key=575469c7d904f51e2e16dea37501fc18)." _New York Law School Review_ 38 (1993): 133–63.
+Duggan, Lisa, Nan D. Hunter, et al. "[False Promises: Feminist Anti-Pornography Legislation](https://socialistregister.com/index.php/srv/article/download/5624/2522/)." _New York Law School Review_ 38 (1993): 133–63.
 
 Dworkin, Andrea. "Pornography: Men Possessing Women." In _Feminism in Our Time: The Essential Writings, World War II to the Present_. Edited by Miriam Schneir. Vintage, 1994. ISBN: 9780679745082.
 
-Walker, Rebecca. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Becoming the Third Wave." _Ms._, January / February 1992.
+Walker, Rebecca. "Becoming the Third Wave." _Ms._, January / February 1992.
 
 ### Skim
 
@@ -430,7 +435,7 @@ Lefkovitz, Alison. "['Sodomy is Not Adultery': The Clinton Sex Scandal as Queer 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**Unit 6 – Sexuality and Gender in the 21st Century: Diverging Currents?**
+**Unit 6 – Sexuality and Gender in the 21{{< sup "st" >}} Century: Diverging Currents?**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -468,7 +473,7 @@ Correll, Shelley J., Stephen Benard, et al. "[Getting a Job: Is There a Motherho
 
 ### Optional
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[John Geddes Lawrence and Tyrone Gardner v. State of Texas - Brief for Amici Curiae (PDF)](http://www.apa.org/about/offices/ogc/amicus/lawrence.pdf).
+[John Geddes Lawrence and Tyrone Gardner v. State of Texas - Brief for Amici Curiae (PDF)](http://www.apa.org/about/offices/ogc/amicus/lawrence.pdf).
 
 Spade, Dean, and Craig Willse. "[Marriage Will Never Set Us Free.](https://www.academia.edu/28966535/Marriage_Will_Never_Set_Us_Free)" _Organizing Upgrade_, September 6, 2013.
 
@@ -492,7 +497,7 @@ _Readings_
 
 [Affiliated](https://affiliated.mit.edu/).
 
-Chin, Carolyn, and Kamilla Tekiela. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Executive Summary." (PDF)](https://diversity.mit.edu/resources/reports/report-status-undergraduate-women-mit) _The Status of Undergraduate Women at MIT_, February 2016.
+Chin, Carolyn, and Kamilla Tekiela. ["Executive Summary." (PDF)](https://diversity.mit.edu/resources/reports/report-status-undergraduate-women-mit) _The Status of Undergraduate Women at MIT_, February 2016.
 
 Dwyer, Sheila. "[Reporting Harassment at MIT: One Student's Call for Greater Support](http://tech.mit.edu/V136/N9/harassment.html)." _The Tech_ 136, no. 9 (2016).
 
@@ -516,7 +521,7 @@ _Readings_
 
 Bahler, Kristen. "[Asexuality: The People's Choice for People Who Don't Want ANYONE](https://www.vice.com/en/article/nn4gjk/asexuality-the-peoples-choice-for-people-who-dont-want-anyone)." _Vice_, January 4, 2013.
 
-Canning, Dominque A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Queering Asexuality: Asexual-Inclusion in Queer Spaces." (PDF)](http://commons.emich.edu/cgi/viewcontent.cgi?article=1090&context=mcnair) _McNair Scholars Research Journal_ 8, no. 1 (2015): 55–74.
+Canning, Dominque A. ["Queering Asexuality: Asexual-Inclusion in Queer Spaces." (PDF)](http://commons.emich.edu/cgi/viewcontent.cgi?article=1090&context=mcnair) _McNair Scholars Research Journal_ 8, no. 1 (2015): 55–74.
 
 The Establishment. "[Bisexuality Invisibility: The LGBT Community's Dirty Little Secret](http://www.huffingtonpost.com/the-establishment/bisexual-invisibility-the_b_9177988.html)," _Huffington Post,_ February 8, 2016.
 
@@ -528,7 +533,7 @@ Horowitz, Jules. "[How the GOP is Using 'Bathroom Bills' to Save the Establishme
 
 Jarvis, Craig. "[Gov. McCrory Defends NC's HB2 on 'Meet the Press'](http://www.charlotteobserver.com/news/politics-government/article72324082.html)," _Charlotte Observer_, April 17, 2016.
 
-Koyama, Emi. "The Transfeminist Manifesto." In _Catching a Wave: Reclaiming Feminism for the 21st Century_. Edited by Rory Dicker and Alison Peipmeier. Northeastern, 2003. ISBN: 9781555535704. \[Preview with [Google Books](http://books.google.com/books?id=h9ku-gW2wj8C&pg=PA244=onepage)\]
+Koyama, Emi. "The Transfeminist Manifesto." In _Catching a Wave: Reclaiming Feminism for the 21{{< sup "st" >}} Century_. Edited by Rory Dicker and Alison Peipmeier. Northeastern, 2003. ISBN: 9781555535704. \[Preview with [Google Books](http://books.google.com/books?id=h9ku-gW2wj8C&pg=PA244=onepage)\]
 
 ———. "Whose Feminism is it Anyway? The Unspoken Racism of the Trans Inclusion Debate." Chapter 49 in _The Transgender Studies Reader_. Edited by Susan Stryker and Stephen Whittle. Routledge, 2006. ISBN: 9780415947091. \[Preview with [Google Books](http://books.google.com/books?id=HBRR1isU-VAC&pg=PA698=onepage)\]
 
@@ -576,7 +581,7 @@ _Readings_
 
 Kunzel, Regina. "Lessons in Being Gay." Chapter 6 in _Criminal Intimacy: Prison and the Uneven History of Modern American Sexuality_. University of Chicago Press, 2010. ISBN: 9780226462271.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Systems of Inequality: Criminal Justice (PDF)](http://srlp.org/files/disproportionate_incarceration_1.pdf), Sylvia Rivera Law Project.
+[Systems of Inequality: Criminal Justice (PDF)](http://srlp.org/files/disproportionate_incarceration_1.pdf), Sylvia Rivera Law Project.
 
 **Military**
 
