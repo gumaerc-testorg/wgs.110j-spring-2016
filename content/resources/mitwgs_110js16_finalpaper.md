@@ -6,6 +6,7 @@ file: /courses/wgs-110j-sexual-and-gender-identities-spring-2016/7c5c62299d1f244
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'WGS.110J/21H.108J S16 Sexual and Gender Identities in the US - Assignmen
 uid: 7c5c6229-9d1f-2444-9599-86293c50686a
 ---
 This resource contains information regarding sexual and gender identities: Assignments.
-

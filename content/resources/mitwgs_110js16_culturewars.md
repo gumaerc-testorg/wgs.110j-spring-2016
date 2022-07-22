@@ -6,6 +6,7 @@ file: /courses/wgs-110j-sexual-and-gender-identities-spring-2016/95e5fbdb7880808
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Films Guides
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'WGS.110J/21H.108J S16 Sexual and Gender Identities in the US - Reading G
 uid: 95e5fbdb-7880-808c-28d2-a7d3afc94aa9
 ---
 This resource contains information regarding sexual and gender identities: Readings.
-
