@@ -9,13 +9,13 @@ title: Readings and Films
 uid: cc60c561-0e01-57db-489a-c05448b69dd1
 ---
 
-\[F\] = Foster, Thomas A., ed. _Documenting Intimate Matters: Primary Sources for a History of Sexuality in America_. University of Chicago Press, 2012. ISBN: 9780226257471. \[Preview with {{% resource_link "0f8b0673-5ae6-4997-a881-76618b948dbd" "Google Books" %}}\]
+\[F\] = Foster, Thomas A., ed. _Documenting Intimate Matters: Primary Sources for a History of Sexuality in America_. University of Chicago Press, 2012. ISBN: 9780226257471. \[Preview with [Google Books](http://books.google.com/books?id=RhoVvvvgqPwC&pg=PAfrontcover)\]
 
 \[K\] = Kerber, Linda K., Jane Sherron De Hart, and Cornelia Hughes Dayton, eds. _Women's America: Refocusing the Past._ 7th ed. Oxford University Press, 2010. ISBN: 9780195388329.
 
 \[P\] = Peiss, Kathy, ed. _Major Problems in the History of American Sexuality: Documents and Essays_. Houghton Mifflin, 2001. ISBN: 9780395903841.
 
-\[R\] = Reis, Elizabeth, ed. _American Sexual Histories._ 2nd ed. Wiley-Blackwell, 2012. ISBN: 9781444339291. \[Preview with {{% resource_link "28da4361-f865-49ee-a7e2-d9a8e20dc874" "Google Books" %}}\]
+\[R\] = Reis, Elizabeth, ed. _American Sexual Histories._ 2nd ed. Wiley-Blackwell, 2012. ISBN: 9781444339291. \[Preview with [Google Books](http://books.google.com/books?id=AED2WGgFwNEC&pg=PAfrontcover)\]
 
 \[W\] = Ware, Susan, ed. _Modern American Women: A Documentary History._ 2nd ed. McGraw-Hill Higher Education, 2001. ISBN: 9780072418200.
 
@@ -55,13 +55,13 @@ Thinking Historically about Gender, Sex, and Sexuality
 
 \[P\] Weeks, Jeffrey. Chapter 1: The Social Construction of Sexuality, pp. 2–9.
 
-Cott, Nancy. "{{% resource_link "841a573e-99be-4480-beb3-0645735c04e1" "What is Gender History?" %}}" Speech delivered at the American Historical Association Conference, January 2005.
+Cott, Nancy. "[What is Gender History?](http://apcentral.collegeboard.com/apc/members/courses/teachers_corner/45821.html)" Speech delivered at the American Historical Association Conference, January 2005.
 
-D'Emilio, John. "Capitalism and Gay Identity." Chapter 31 in _The Lesbian and Gay Studies Reader._ Edited by Henry Abelove, Michele Aina Barale, and David M. Halperin. Routledge, 1993. ISBN: 9780415905190. \[Preview with {{% resource_link "35fa0ccf-b255-4f0c-9982-a134aa2d78a0" "Google Books" %}}\]
+D'Emilio, John. "Capitalism and Gay Identity." Chapter 31 in _The Lesbian and Gay Studies Reader._ Edited by Henry Abelove, Michele Aina Barale, and David M. Halperin. Routledge, 1993. ISBN: 9780415905190. \[Preview with [Google Books](http://books.google.com/books?id=PaNdHqo-9wIC&pg=PA467=onepage)\]
 
 Katz, Jonathan Ned. "The Invention of Heterosexuality." Chapter 28 in _Race, Class, & Gender: An Anthology._ 9th edition. Edited by Margaret L. Anderson and Patricia Hill Collins. Cengage Learning, 2015. ISBN: 9781305093614.
 
-Meyerowitz, Joanne. "Introduction." In _How Sex Changed: A History of Transsexuality in the United States_. Harvard University Press, 2004. ISBN: 9780674013797. \[Preview with {{% resource_link "2b3dff14-8c37-4ffc-90cf-a72abb4be3b1" "Google Books" %}}\]
+Meyerowitz, Joanne. "Introduction." In _How Sex Changed: A History of Transsexuality in the United States_. Harvard University Press, 2004. ISBN: 9780674013797. \[Preview with [Google Books](http://books.google.com/books?id=rTmQVXWSv5gC&pg=PA1=onepage)\]
 
 Stryker, Susan. "An Introduction to Transgender Terms and Concepts." Chapter 1 in _Transgender History_. Seal Press, 2008. ISBN: 9781580052245.
 
@@ -95,7 +95,7 @@ Before the Modern Era: Race, Reproduction, Love, and Intimacy
 
 \[R\] Chapter 5.1: Letters of Daniel Webster, 1801–5.
 
-Block, Sharon. "Lines of Color, Sex, and Service: Comparative Sexual Coercion in Early America." Chapter 7 in _Sex, Love, Race: Crossing Boundaries in North American History_. Edited by Martha Hodes. NewYork University Press, 1999. ISBN: 9780814735572. \[Preview with {{% resource_link "8e67aa39-7a78-4bec-b5c4-83029bb206c8" "Google Books" %}}\]
+Block, Sharon. "Lines of Color, Sex, and Service: Comparative Sexual Coercion in Early America." Chapter 7 in _Sex, Love, Race: Crossing Boundaries in North American History_. Edited by Martha Hodes. NewYork University Press, 1999. ISBN: 9780814735572. \[Preview with [Google Books](https://books.google.com/books?id=7JMUCgAAQBAJ&pg=PA141=onepage#v=onepage&q&f=false)\]
 
 D'Emilio, John, and Estelle B. Freedman. "The Reproductive Matrix, 1600–1800." In _Intimate Matters: A History of Sexuality in America_. 3rd edition. University of Chicago Press, 2012. ISBN: 9780226923802.
 
@@ -145,9 +145,9 @@ Sex and the City: Working Class Sexuality and the Politics of Reproduction
 
 \[P\] Ladd-Taylor, Molly. Chapter 9: Eugenics, Sterilization, and Social Welfare, pp. 327–36.
 
-Deutsch, Sarah. "The Moral Geography of the Working Girl (and the New Woman)." Chapter 3 in _Women and the City: Gender, Space, and Power in Boston, 1870–1940_. Oxford University Press, 2002. ISBN: 9780195158649. \[Preview with {{% resource_link "6de88531-7fb1-4627-8bf4-9c94ca776cf5" "Google Books" %}}\]
+Deutsch, Sarah. "The Moral Geography of the Working Girl (and the New Woman)." Chapter 3 in _Women and the City: Gender, Space, and Power in Boston, 1870–1940_. Oxford University Press, 2002. ISBN: 9780195158649. \[Preview with [Google Books](http://books.google.com/books?id=ZG3nCwAAQBAJ&pg=PA78=onepage)\]
 
-Peiss, Kathy. "'Charity Girls' and City Pleasures: Historical Notes on Working-Class Sexuality, 1880–1920." Chapter 4 in _Passion & Power: Sexuality in History_. Edited by Kathy Peiss and Christina Simmons. Temple University Press, 1989. ISBN: 9780877226376. \[Preview with {{% resource_link "b975373f-2f45-4b81-90e3-4e2037107e79" "Google Books" %}}\]
+Peiss, Kathy. "'Charity Girls' and City Pleasures: Historical Notes on Working-Class Sexuality, 1880–1920." Chapter 4 in _Passion & Power: Sexuality in History_. Edited by Kathy Peiss and Christina Simmons. Temple University Press, 1989. ISBN: 9780877226376. \[Preview with [Google Books](http://books.google.com/books?id=5jTjfFo42E8C&pg=PA57=onepage)\]
 
 
 {{< tdclose >}}
@@ -179,7 +179,7 @@ Stansell, Christine. "Modern Times: Political Revival and Winning the Vote." Cha
 
 ### Film
 
-{{% resource_link "66cfa592-e9f2-4b12-a12c-69a0f9ba115a" "_One Woman, One Vote_" %}}. Directed by Ruth Pollak. Color and Black and White, 60 min. 1995.
+[_One Woman, One Vote_](https://www.pbs.org/show/one-woman-one-vote/). Directed by Ruth Pollak. Color and Black and White, 60 min. 1995.
 
 
 {{< tdclose >}}
@@ -213,13 +213,13 @@ Regulating Sexuality during the Jazz Age, Depression, and War
 
 Canaday, Margot. "[Building a Straight State: Sexuality and Social Citizenship Under the 1944 G.I. Bill](http://www.jstor.org/stable/3660882 )." _Journal of American History_ 90, no. 3 (2003): 935–57.
 
-Chauncey, George. "{{% resource_link "82ca9c9f-50a1-4f27-bcc9-9fce10498272" "Christian Brotherhood or Sexual Perversion?: Homosexual Identities and the Construction of Sexual Boundaries in the World War One Era" %}}." _Journal of Social History_ 19, no. 2 (1985): 189–211.
+Chauncey, George. "[Christian Brotherhood or Sexual Perversion?: Homosexual Identities and the Construction of Sexual Boundaries in the World War One Era](http://www.jstor.org/stable/3787467)." _Journal of Social History_ 19, no. 2 (1985): 189–211.
 
 Simmons, Christina. "Modern Sexuality and the Myth of Victorian Repression." Chapter 2 in _Gender and American History Since 1890_. Edited by Barbara Melosh. Routledge, 1993. ISBN: 9780415076760.
 
 ### Film
 
-{{% resource_link "76dfae78-2fff-42ea-a5e6-ab450059678f" "_Coming Out Under Fire_" %}}. Directed by Arthur Dong. Black and White, 72 min. 1994.
+[_Coming Out Under Fire_](http://www.imdb.com/title/tt0109462/?ref_=fn_al_tt_1). Directed by Arthur Dong. Black and White, 72 min. 1994.
 
 
 {{< tdclose >}}
@@ -243,19 +243,19 @@ Creating, Containing, and Resisting "Normal" in Cold War America
 
 Igo, Sarah E. "Surveying Normal Selves." Chapter 5 in _The Averaged American: Surveys, Citizens, and the Making of a Mass Public_. Harvard University Press, 2008. ISBN: 9780674027428.
 
-Loftin, Craig M. "{{% resource_link "b342843a-b8a2-4c13-9c00-e1b51a51feca" "Unacceptable Mannerisms: Gender Anxieties, Homosexual Activism, and Swish in the United States, 1945–1965" %}}." _Journal of Social History_ 40, no. 3 (2007): 577–96.
+Loftin, Craig M. "[Unacceptable Mannerisms: Gender Anxieties, Homosexual Activism, and Swish in the United States, 1945–1965](https://muse.jhu.edu/article/212748)." _Journal of Social History_ 40, no. 3 (2007): 577–96.
 
-May, Elaine Tyler. "Explosive Issues: Sex, Women, and the Bomb." Chapter 8 in _Recasting America: Culture and Politics in the Age of Cold War_. Edited by Lary May. University of Chicago Press, 1988. ISBN: 9780226511764. \[Preview with {{% resource_link "30d1295a-9289-4bb2-a28f-a746b8d2e5c0" "Google Books" %}}\]
+May, Elaine Tyler. "Explosive Issues: Sex, Women, and the Bomb." Chapter 8 in _Recasting America: Culture and Politics in the Age of Cold War_. Edited by Lary May. University of Chicago Press, 1988. ISBN: 9780226511764. \[Preview with [Google Books](http://books.google.com/books?id=F2D__zG-4JEC&pg=PA154=onepage)\]
 
 Meyerowitz, Joanne. "[Transforming Sex: Christine Jorgensen in the Postwar U.S](http://www.jstor.org/stable/25162028 )." _OAH Magazine of History_ 20, no. 2 (2006): 16–20.
 
 ### Films (optional)
 
-krfty1. "{{% resource_link "722b45c3-86a6-4786-9178-a2c17f969839" "Christine Jorgensen Arriving at Idlewild airport (1952)" %}}." June 25, 2007. YouTube.
+krfty1. "[Christine Jorgensen Arriving at Idlewild airport (1952)](https://www.youtube.com/watch?v=M9Q50y5IsJU)." June 25, 2007. YouTube.
 
-Richard RemembersJoePyne. "{{% resource_link "5612c419-263f-4eec-818a-e35d634f670c" "Christine Jorgensen on Joe Pyne 1966 or 1967" %}}." October 13, 2009. YouTube.
+Richard RemembersJoePyne. "[Christine Jorgensen on Joe Pyne 1966 or 1967](https://www.youtube.com/watch?v=fyh8BxPxtnw)." October 13, 2009. YouTube.
 
-William French. "{{% resource_link "2891769d-f040-4780-ae3d-7e62cf1f055f" "Christine Jorgensen – Hour Magazine" %}}." July 26, 2010. YouTube.
+William French. "[Christine Jorgensen – Hour Magazine](https://www.youtube.com/watch?v=lDlGUeF1Bg0)." July 26, 2010. YouTube.
 
 
 {{< tdclose >}}
@@ -285,23 +285,23 @@ Sexual Revolutions and the Emergence of Second Wave Feminism
 
 Bailey, Beth. "Sexual Revolution(s)." Chapter 8 in _The Sixties: From Memory to History_. Edited by David Farber. University of North Carolina Press, 1994. ISBN: 9780807844625.
 
-"{{% resource_link "348f4716-1c67-4826-a245-d5cc243a9c9b" "Birth Control and Black Children: A Statement by the Black Unity (Peekskill, N.Y.),\" and \"A Response: By Black Sisters" %}}." _Poor Black Women_, Duke University Libraries Digital Collections.
+"[Birth Control and Black Children: A Statement by the Black Unity (Peekskill, N.Y.)," and "A Response: By Black Sisters](http://library.duke.edu/digitalcollections/wlmpc_wlmms01008/)." _Poor Black Women_, Duke University Libraries Digital Collections.
 
 Friedan, Betty. "The Problem That Has No Name." Chapter 1 in _The Feminine Mystique_. 50{{< sup "th" >}} anniversary edition. W. W. Norton & Company, 2013. ISBN: 9780393346787.
 
-Hanisch, Carol. "{{% resource_link "e0af384f-d85d-4161-965e-22699242db46" "The Personal is Political: Introduction - January 2006" %}}," carolhanisch.org.
+Hanisch, Carol. "[The Personal is Political: Introduction - January 2006](http://www.carolhanisch.org/CHwritings/PIP.html)," carolhanisch.org.
 
-———. "{{% resource_link "e0af384f-d85d-4161-965e-22699242db46" "The Personal is Political - February 1969" %}}," carolhanisch.org.
+———. "[The Personal is Political - February 1969](http://www.carolhanisch.org/CHwritings/PIP.html)," carolhanisch.org.
 
 Hayden, Casey, and Mary King. "Sex and Caste: A Kind of Memo." In _Takin' It to the Streets: A Sixties Reader_. 4th edition. Edited by Alexander Bloom and Wini Breines. Oxford University Press, 2015. ISBN: 9780190250706.
 
-New York Radical Women. "{{% resource_link "317517a9-a327-458a-91f0-a785e5d461c5" "No More Miss America! - August 22, 1968" %}}," redstockings.org.
+New York Radical Women. "[No More Miss America! - August 22, 1968](http://www.redstockings.org/index.php?option=com_content&view=article&id=65&Itemid=103)," redstockings.org.
 
 ### Optional
 
 \[R\] Chapter 15.3: Population Crisis: Hearings before the Subcommittee on Foreign Aid and Expenditures of the Committee on Government Operations, 1965.
 
-"{{% resource_link "3ca43dbd-43c5-4c9e-92b3-5748355c501a" "The Pill: How it is Affecting U.S. Morals, Family Life" %}}." _U.S. News & World Report_, July 11, 1966, 1–6.
+"[The Pill: How it is Affecting U.S. Morals, Family Life](https://www.encyclopedia.com/science/medical-magazines/pill-how-it-affecting-us-morals-family-life)." _U.S. News & World Report_, July 11, 1966, 1–6.
 
 
 {{< tdclose >}}
@@ -329,7 +329,7 @@ Feminism as a Mass Movement and the Flowering of Gay Liberation
 
 \[W\] Combahee River Collective. Chapter 10: Black Feminism, pp. 354–64.
 
-Ehrenreich, Barbara. "{{% resource_link "fc3f3fa1-1fa1-49e3-b3ab-a1f5def9bd6a" "What is Socialist Feminism?" %}}," cwluherstory.org.
+Ehrenreich, Barbara. "[What is Socialist Feminism?](https://www.marxists.org/subject/women/authors/ehrenreich-barbara/socialist-feminism.htm)," cwluherstory.org.
 
 Wittman, Carl. "A Gay Manifesto (1969)." In _Come Out Fighting: A Century of Essential Writing on Gay & Lesbian Liberation_. Edited by Chris Bull. Nation Books, 2001. ISBN: 9781560253259.
 
@@ -339,13 +339,13 @@ Marcus, Eric. "1968–1973: Liberation." Part 4 in _Making Gay History: The Half
 
 ### Films
 
-KQED Arts. "{{% resource_link "821866f2-a0e8-4bb2-9ddf-186136285ea2" "Screaming Queens / KQED Truly CA" %}}." July 21, 2016. YouTube.
+KQED Arts. "[Screaming Queens / KQED Truly CA](https://www.youtube.com/watch?v=G-WASW9dRBU)." July 21, 2016. YouTube.
 
 ### Optional
 
-Mike Gardner. "{{% resource_link "3b8d526c-e6dd-4d8a-a206-3549eebf45a0" "Women's Liberation circa 1970" %}}." May 7, 2009. YouTube.
+Mike Gardner. "[Women's Liberation circa 1970](https://www.youtube.com/watch?v=E9TlSiMSdPk)." May 7, 2009. YouTube.
 
-ronsfo. "{{% resource_link "f6223ed8-cd44-4edf-a803-7df178c838f9" "Gay Pride Parades, San Francisco, 1970–1980" %}}." November 10, 2011. YouTube.
+ronsfo. "[Gay Pride Parades, San Francisco, 1970–1980](https://www.youtube.com/watch?v=RgEbgSvBIEg)." November 10, 2011. YouTube.
 
 
 {{< tdclose >}}
@@ -379,13 +379,13 @@ Falwell, Jerry. "The Feminist Movement." In _Listen, America!_ Doubleday, 1980. 
 
 ———. "Homosexuality." In _Listen, America!_ Doubleday, 1980. ISBN: 9780385158978.
 
-Kramer, Larry. "{{% resource_link "330a7433-fd15-4ed8-ae7b-87ccfb6f5bf0" "1,112 and Counting" %}}," _New York Native_, no. 59 (1983): 14–27.
+Kramer, Larry. "[1,112 and Counting](https://www.indymedia.org.uk/en/2003/05/66488.html)," _New York Native_, no. 59 (1983): 14–27.
 
 Schlafly, Phyllis. "Interview with the _Washington Star_: January 18, 1976." Chapter 24 in _The Rise of Conservatism in America, 1945–2000: A Brief History with Documents_. Edited by Ronald Story and Bruce Laurie. Bedford / St. Martin's, 2007. ISBN: 9780312450649.
 
 ### Film
 
-{{% resource_link "ec0fb0d0-d182-48da-9cdc-81065c864436" "_How to Survive a Plague_" %}}. Directed by David France. Color, 110 min. 2012.
+[_How to Survive a Plague_](http://www.imdb.com/title/tt2124803/?ref_=fn_al_tt_1). Directed by David France. Color, 110 min. 2012.
 
 
 {{< tdclose >}}
@@ -411,7 +411,7 @@ Culture Wars II: Pornography, Representation, and Sexual Harassment / Violence
 
 \[K\] Meritor Savings Bank v. Mechelle Vinson et al., 1986.
 
-Duggan, Lisa, Nan D. Hunter, et al. "{{% resource_link "4377ad86-0c65-455a-bde7-806359e99fca" "False Promises: Feminist Anti-Pornography Legislation" %}}." _New York Law School Review_ 38 (1993): 133–63.
+Duggan, Lisa, Nan D. Hunter, et al. "[False Promises: Feminist Anti-Pornography Legislation](https://socialistregister.com/index.php/srv/article/download/5624/2522/)." _New York Law School Review_ 38 (1993): 133–63.
 
 Dworkin, Andrea. "Pornography: Men Possessing Women." In _Feminism in Our Time: The Essential Writings, World War II to the Present_. Edited by Miriam Schneir. Vintage, 1994. ISBN: 9780679745082.
 
@@ -423,11 +423,11 @@ _Bitch: Feminist Response to Popular Culture_ 1, no. 2 (Spring 1996).
 
 ### Optional
 
-Lefkovitz, Alison. "{{% resource_link "a1e08aa4-7612-410a-8532-14f253febca9" "'Sodomy is Not Adultery': The Clinton Sex Scandal as Queer History" %}}." _Notches_, April 7, 2016.
+Lefkovitz, Alison. "['Sodomy is Not Adultery': The Clinton Sex Scandal as Queer History](http://notchesblog.com/2016/04/07/sodomy-is-not-adultery/)." _Notches_, April 7, 2016.
 
 ### Audio
 
-"{{% resource_link "1edaacee-4260-4092-a2fc-fc484717ef2b" "The Real Story Behind HBO's 'Confirmation' from the NPR Reporter Who Broke the Story" %}}," April 13, 2016, npr.org.
+"[The Real Story Behind HBO's 'Confirmation' from the NPR Reporter Who Broke the Story](http://one.npr.org/?sharedMediaId=474011126:474012219)," April 13, 2016, npr.org.
 
 
 {{< tdclose >}}
@@ -453,29 +453,29 @@ New Trajectories in the Politics of Gender and Sexuality
 
 \[F\] Fitzmaurice, Susan. "Adventures in Child-Rearing: The Sexual Life of a Child Growing Up with Down Syndrome (2002)."
 
-Canaday, Margot. "{{% resource_link "12c0bdc5-fcae-48bd-b3f7-2b94aada3e4d" "LGBT History" %}}." _Frontiers: A Journal of Women Studies_ 35, no. 1 (2014): 11–19.
+Canaday, Margot. "[LGBT History](http://dx.doi.org/10.5250/fronjwomestud.35.1.0011)." _Frontiers: A Journal of Women Studies_ 35, no. 1 (2014): 11–19.
 
-Chauncey, George. "{{% resource_link "e604d866-8aab-422f-aa66-49b7174d0835" "'What Gay Studies Taught the Court': The Historians Amicus Brief in Lawrence v. Texas" %}}." _GLQ: A Journal of Lesbian and Gay Studies_ 10, no. 3 (2004): 509–38.
+Chauncey, George. "['What Gay Studies Taught the Court': The Historians Amicus Brief in Lawrence v. Texas](https://www.researchgate.net/publication/31250944)." _GLQ: A Journal of Lesbian and Gay Studies_ 10, no. 3 (2004): 509–38.
 
-Hernandez, Daisy. "{{% resource_link "79b70c97-4aad-42b7-8df1-4789457512c0" "Becoming a Black Man" %}}." _Colorlines_, January 7, 2008.
+Hernandez, Daisy. "[Becoming a Black Man](http://www.colorlines.com/articles/becoming-black-man)." _Colorlines_, January 7, 2008.
 
-hooks, bell. "{{% resource_link "645f128d-a684-4b2f-af47-400a53562dd2" "Dig Deep: Beyond Lean In" %}}." _The Feminist Wire_, October 28, 2013.
+hooks, bell. "[Dig Deep: Beyond Lean In](http://www.thefeministwire.com/2013/10/17973/)." _The Feminist Wire_, October 28, 2013.
 
-Mintz, Steven. "{{% resource_link "188babdb-89eb-47c3-9836-2a7373bea21d" "Does History Matter?" %}}" _Inside Higher Ed_, July 2, 2013.
+Mintz, Steven. "[Does History Matter?](https://www.insidehighered.com/views/2013/07/02/essay-role-history-supreme-court-decision-gay-marriage)" _Inside Higher Ed_, July 2, 2013.
 
-Stewart-Winter, Timothy. "{{% resource_link "d23a9a9b-08b0-453d-8973-d02f0d1a5bc3" "The Price of Gay Marriage" %}}," _New York Times_, June 26, 2015.
+Stewart-Winter, Timothy. "[The Price of Gay Marriage](http://www.nytimes.com/2015/06/28/opinion/sunday/the-price-of-gay-marriage.html?_r=0)," _New York Times_, June 26, 2015.
 
-Wallace, Kelly. "{{% resource_link "6b3385ad-cc6c-4c6d-a7c7-c4c9493d83e2" "23% of Women Report Sexual Assault in College, Study Finds" %}}," September 23, 2015, cnn.com.
+Wallace, Kelly. "[23% of Women Report Sexual Assault in College, Study Finds](http://www.cnn.com/2015/09/22/health/campus-sexual-assault-new-large-survey/index.html)," September 23, 2015, cnn.com.
 
 ### Skim
 
-Correll, Shelley J., Stephen Benard, et al. "{{% resource_link "eb324b5b-902c-41ab-bd95-a94bfb9fadac" "Getting a Job: Is There a Motherhood Penalty?" %}}" _American Journal of Sociology_ 112, no. 5 (2007): 1297–338.
+Correll, Shelley J., Stephen Benard, et al. "[Getting a Job: Is There a Motherhood Penalty?](https://sociology.stanford.edu/publications/getting-job-there-motherhood-penalty)" _American Journal of Sociology_ 112, no. 5 (2007): 1297–338.
 
 ### Optional
 
-{{% resource_link "da7a2509-04bd-4dc5-8bef-31af6a27a844" "John Geddes Lawrence and Tyrone Gardner v. State of Texas - Brief for Amici Curiae (PDF)" %}}.
+[John Geddes Lawrence and Tyrone Gardner v. State of Texas - Brief for Amici Curiae (PDF)](http://www.apa.org/about/offices/ogc/amicus/lawrence.pdf).
 
-Spade, Dean, and Craig Willse. "{{% resource_link "ed3c5396-6d25-4b20-9fb3-b34fd530086e" "Marriage Will Never Set Us Free." %}}" _Organizing Upgrade_, September 6, 2013.
+Spade, Dean, and Craig Willse. "[Marriage Will Never Set Us Free.](https://www.academia.edu/28966535/Marriage_Will_Never_Set_Us_Free)" _Organizing Upgrade_, September 6, 2013.
 
 
 {{< tdclose >}}
@@ -495,85 +495,85 @@ Student-Led Discussion and Closing Thoughts
 
 _Readings_
 
-{{% resource_link "b1d02d16-302f-4937-80f5-fbb6fb048fd1" "Affiliated" %}}.
+[Affiliated](https://affiliated.mit.edu/).
 
-Chin, Carolyn, and Kamilla Tekiela. {{% resource_link "bdb01391-f17b-46ab-9888-f559e7fd929d" "\"Executive Summary.\" (PDF)" %}} _The Status of Undergraduate Women at MIT_, February 2016.
+Chin, Carolyn, and Kamilla Tekiela. ["Executive Summary." (PDF)](https://diversity.mit.edu/resources/reports/report-status-undergraduate-women-mit) _The Status of Undergraduate Women at MIT_, February 2016.
 
-Dwyer, Sheila. "{{% resource_link "b17cdf1c-feb7-4c7c-8b3e-56a7743c7a0c" "Reporting Harassment at MIT: One Student's Call for Greater Support" %}}." _The Tech_ 136, no. 9 (2016).
+Dwyer, Sheila. "[Reporting Harassment at MIT: One Student's Call for Greater Support](http://tech.mit.edu/V136/N9/harassment.html)." _The Tech_ 136, no. 9 (2016).
 
 **Organizing**
 
 _Readings_
 
-Garza, Alicia, Opal Tometti, et al. "{{% resource_link "aaaef75c-7df7-4b86-8cce-8a11ef84f2b8" "A Herstory of the #BlackLives Matter Movement" %}}." BlackLivesMatter.com.
+Garza, Alicia, Opal Tometti, et al. "[A Herstory of the #BlackLives Matter Movement](http://www.thefeministwire.com/2014/10/blacklivesmatter-2/http://www.thefeministwire.com/2014/10/blacklivesmatter-2/)." BlackLivesMatter.com.
 
-Khan, Shamus. "{{% resource_link "6e397171-6fc9-4343-8ba9-3d07c4c523f3" "Not Born This Way: Other Liberation Movements Have Rejected The Idea That Biology is Destiny. So Why Should Gay Rights Depend On It?" %}}" _Aeon_, July 23, 2015.
+Khan, Shamus. "[Not Born This Way: Other Liberation Movements Have Rejected The Idea That Biology is Destiny. So Why Should Gay Rights Depend On It?](https://aeon.co/essays/why-should-gay-rights-depend-on-being-born-this-way)" _Aeon_, July 23, 2015.
 
-Meronek, Toshio. "{{% resource_link "f108ceb7-d600-4c70-8b00-aea4ddd37f25" "Israel's'Pro-Gay' Occupation: An Interview with Dean Spade" %}}," _Truthout_, May 1, 2015.
+Meronek, Toshio. "[Israel's'Pro-Gay' Occupation: An Interview with Dean Spade](http://www.truth-out.org/news/item/30540-israel-s-pro-gay-occupation-an-interview-with-dean-spade)," _Truthout_, May 1, 2015.
 
 ### Film
 
-Dark Matter. "{{% resource_link "a4fa5020-c84f-4cd3-9cdb-5b002e31759b" "It Gets Bougie – DarkMatter" %}}." March 26, 2015. YouTube.
+Dark Matter. "[It Gets Bougie – DarkMatter](https://www.youtube.com/watch?v=4Nzb6puWsbs)." March 26, 2015. YouTube.
 
 **Sexuality Beyond Binaries**
 
 _Readings_
 
-Bahler, Kristen. "{{% resource_link "c663834a-3663-41b3-9fd1-2ece261bcd52" "Asexuality: The People's Choice for People Who Don't Want ANYONE" %}}." _Vice_, January 4, 2013.
+Bahler, Kristen. "[Asexuality: The People's Choice for People Who Don't Want ANYONE](https://www.vice.com/en/article/nn4gjk/asexuality-the-peoples-choice-for-people-who-dont-want-anyone)." _Vice_, January 4, 2013.
 
-Canning, Dominque A. {{% resource_link "5df2a901-4975-466b-807e-3e515f6e3d8f" "\"Queering Asexuality: Asexual-Inclusion in Queer Spaces.\" (PDF)" %}} _McNair Scholars Research Journal_ 8, no. 1 (2015): 55–74.
+Canning, Dominque A. ["Queering Asexuality: Asexual-Inclusion in Queer Spaces." (PDF)](http://commons.emich.edu/cgi/viewcontent.cgi?article=1090&context=mcnair) _McNair Scholars Research Journal_ 8, no. 1 (2015): 55–74.
 
-The Establishment. "{{% resource_link "07b52087-6732-41e9-a899-c9dc0cfbddbc" "Bisexuality Invisibility: The LGBT Community's Dirty Little Secret" %}}," _Huffington Post,_ February 8, 2016.
+The Establishment. "[Bisexuality Invisibility: The LGBT Community's Dirty Little Secret](http://www.huffingtonpost.com/the-establishment/bisexual-invisibility-the_b_9177988.html)," _Huffington Post,_ February 8, 2016.
 
 **Transgender Politics and Platforms**
 
 _Readings_
 
-Horowitz, Jules. "{{% resource_link "34033fbe-4921-458a-b502-5ff475d4c068" "How the GOP is Using 'Bathroom Bills' to Save the Establishment" %}}," _Huffington Post_, April 20, 2016.
+Horowitz, Jules. "[How the GOP is Using 'Bathroom Bills' to Save the Establishment](http://www.huffingtonpost.com/jules-horowitz/how-the-gop-is-using-bath_b_9731968.html)," _Huffington Post_, April 20, 2016.
 
-Jarvis, Craig. "{{% resource_link "4027bb99-abd7-4e99-934d-6c6cc0846b6f" "Gov. McCrory Defends NC's HB2 on 'Meet the Press'" %}}," _Charlotte Observer_, April 17, 2016.
+Jarvis, Craig. "[Gov. McCrory Defends NC's HB2 on 'Meet the Press'](http://www.charlotteobserver.com/news/politics-government/article72324082.html)," _Charlotte Observer_, April 17, 2016.
 
-Koyama, Emi. "The Transfeminist Manifesto." In _Catching a Wave: Reclaiming Feminism for the 21{{< sup "st" >}} Century_. Edited by Rory Dicker and Alison Peipmeier. Northeastern, 2003. ISBN: 9781555535704. \[Preview with {{% resource_link "07e9aaab-9baf-493c-bf65-88bc6a79076f" "Google Books" %}}\]
+Koyama, Emi. "The Transfeminist Manifesto." In _Catching a Wave: Reclaiming Feminism for the 21{{< sup "st" >}} Century_. Edited by Rory Dicker and Alison Peipmeier. Northeastern, 2003. ISBN: 9781555535704. \[Preview with [Google Books](http://books.google.com/books?id=h9ku-gW2wj8C&pg=PA244=onepage)\]
 
-———. "Whose Feminism is it Anyway? The Unspoken Racism of the Trans Inclusion Debate." Chapter 49 in _The Transgender Studies Reader_. Edited by Susan Stryker and Stephen Whittle. Routledge, 2006. ISBN: 9780415947091. \[Preview with {{% resource_link "9c784ef9-90e4-47e9-990b-d1c596c3f786" "Google Books" %}}\]
+———. "Whose Feminism is it Anyway? The Unspoken Racism of the Trans Inclusion Debate." Chapter 49 in _The Transgender Studies Reader_. Edited by Susan Stryker and Stephen Whittle. Routledge, 2006. ISBN: 9780415947091. \[Preview with [Google Books](http://books.google.com/books?id=HBRR1isU-VAC&pg=PA698=onepage)\]
 
 **Electoral Politics**
 
 _Readings_
 
-Pollitt, Katha. "{{% resource_link "e3032075-3384-48a4-b7f9-94c76c380f69" "There's a Reason Why Gay Marriage is Winning, and Abortion Rights are Losing: Are These Two 'Culture Wars' Issues Really That Similar?" %}}" _The Nation_, April 22, 2015.
+Pollitt, Katha. "[There's a Reason Why Gay Marriage is Winning, and Abortion Rights are Losing: Are These Two 'Culture Wars' Issues Really That Similar?](https://www.thenation.com/article/theres-reason-gay-marriage-winning-while-abortion-rights-are-losing/)" _The Nation_, April 22, 2015.
 
-———. "{{% resource_link "19957ff9-01b0-4fa0-a0ea-3ff44738fefe" "Why Bernie Didn't Get My Vote" %}}." _The Nation_, May 4, 2016.
+———. "[Why Bernie Didn't Get My Vote](https://www.thenation.com/article/why-bernie-didnt-get-my-vote/)." _The Nation_, May 4, 2016.
 
-Rampell, Catherine. "{{% resource_link "db16d9ed-815f-480b-835a-e6ec77043348" "The Sexiest Double Standard Behind Why Millennials Love Bernie Sanders" %}}," _Washington Post_, February 4, 2016.
+Rampell, Catherine. "[The Sexiest Double Standard Behind Why Millennials Love Bernie Sanders](https://www.washingtonpost.com/opinions/the-double-standard-behind-why-millennials-love-bernie-sanders/2016/02/04/dce7b458-cb85-11e5-a7b2-5a2f824b02c9_story.html?tid=sm_fb&utm_term=.4285d063cf00)," _Washington Post_, February 4, 2016.
 
 **Feminisms**
 
 ### Readings
 
-Bennett, Jessica. "{{% resource_link "377ec251-fc58-4ab9-ae53-c8b78589cadf" "When A Feminist Pledges a Sorority" %}}," _New York Times_, April 9, 2016.
+Bennett, Jessica. "[When A Feminist Pledges a Sorority](http://www.nytimes.com/2016/04/10/fashion/sorority-ivy-league-feminists.html?_r=1)," _New York Times_, April 9, 2016.
 
-{{% resource_link "6dba8b4b-4f4b-42e0-a51e-98172fb17b92" "Beyoncé's 'Lemonade' and Information Resources" %}}, Decker Library, Maryland Institute College of Art.
+[Beyoncé's 'Lemonade' and Information Resources](http://libguides.mica.edu/c.php?g=487209&p=3332161), Decker Library, Maryland Institute College of Art.
 
-Gay, Roxane. "{{% resource_link "238aa88a-cd65-4182-adc2-afa53ccc1b7c" "The Bad Feminist Manifesto" %}}," _The Guardian_, August 2, 2014.
+Gay, Roxane. "[The Bad Feminist Manifesto](https://www.theguardian.com/world/2014/aug/02/bad-feminist-roxane-gay-extract)," _The Guardian_, August 2, 2014.
 
 Gill, Rosalind. "Postfeminist Media Culture?" Chapter 8 in _Gender and the Media_. Polity, 2007. ISBN: 9780745619156.
 
-{{% resource_link "fe068d49-f7fc-45ec-b1d1-5a9813f3ca51" "Violence Against Women Initiative Research Database" %}}, Harvard University.
+[Violence Against Women Initiative Research Database](http://projects.iq.harvard.edu/violenceagainstwomen/home), Harvard University.
 
 ### Film
 
-MusicPlayOn. "{{% resource_link "17f6a309-65a2-4224-a9c4-87bea39e474e" "Beyoncé – Lemonade Film (2016)" %}}." Bing. April 26, 2016.
+MusicPlayOn. "[Beyoncé – Lemonade Film (2016)](http://www.bing.com/videos/search?q=lemonae+beyonce&view=detail&mid=01A93E05553FEC6BD77801A93E05553FEC6BD778&FORM=VIRE)." Bing. April 26, 2016.
 
 **Internet Cultures**
 
 _Readings_
 
-Hess, Amanda. "{{% resource_link "a4957d80-9039-4655-bc2e-cc368589109d" "Why Women Aren't Welcome on the Internet" %}}." _Pacific Standard_, January 6, 2014.
+Hess, Amanda. "[Why Women Aren't Welcome on the Internet](https://psmag.com/why-women-aren-t-welcome-on-the-internet-aa21fdbc8d6#.p52m1632a)." _Pacific Standard_, January 6, 2014.
 
-Jason, Zachary. "{{% resource_link "558eaaf1-9320-47e0-a404-3cef876097fe" "Game of Fear" %}}." _Boston Magazine_, May 2015.
+Jason, Zachary. "[Game of Fear](http://www.bostonmagazine.com/news/article/2015/04/28/gamergate/)." _Boston Magazine_, May 2015.
 
-Williams, Mary Elizabeth. "{{% resource_link "0eb64b89-4793-4fd5-8cee-2130063d960f" "A Viral Video Won't Stop Abuse: If These 'Mean Tweets' at Female Sports Writers are 'Shocking,' You Haven't Been Paying Attention" %}}." _Salon_, April 27, 2016.
+Williams, Mary Elizabeth. "[A Viral Video Won't Stop Abuse: If These 'Mean Tweets' at Female Sports Writers are 'Shocking,' You Haven't Been Paying Attention](http://www.salon.com/2016/04/27/a_viral_video_wont_stop_abuse_if_these_mean_tweets_at_female_sports_writers_are_shocking_you_havent_been_paying_attention/)." _Salon_, April 27, 2016.
 
 **Prison and Criminal Justice**
 
@@ -581,13 +581,13 @@ _Readings_
 
 Kunzel, Regina. "Lessons in Being Gay." Chapter 6 in _Criminal Intimacy: Prison and the Uneven History of Modern American Sexuality_. University of Chicago Press, 2010. ISBN: 9780226462271.
 
-{{% resource_link "7c3284dc-6610-480f-a790-50df25a9178d" "Systems of Inequality: Criminal Justice (PDF)" %}}, Sylvia Rivera Law Project.
+[Systems of Inequality: Criminal Justice (PDF)](http://srlp.org/files/disproportionate_incarceration_1.pdf), Sylvia Rivera Law Project.
 
 **Military**
 
 _Reading_
 
-Clairmont, Nicholas. "{{% resource_link "3c0b11e8-2057-4c35-90b4-92231b0629cf" "A Twist in the Fight for Women in the Military" %}}." _The Atlantic_, May 3, 2016.
+Clairmont, Nicholas. "[A Twist in the Fight for Women in the Military](http://www.theatlantic.com/politics/archive/2016/05/the-quiet-steady-progress-of-women-in-the-military/481056/)." _The Atlantic_, May 3, 2016.
 
 
 {{< tdclose >}}

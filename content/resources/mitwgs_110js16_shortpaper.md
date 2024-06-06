@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding sexual and gender identities:
   Assignments.'
 file: /courses/wgs-110j-sexual-and-gender-identities-spring-2016/e71fbd552ec703199c7a4c67f61f9023_MITWGS_110JS16_ShortPaper.pdf
+file_size: 105634
 file_type: application/pdf
 learning_resource_types:
 - Assignments
