@@ -48,26 +48,26 @@ The final paper is worth 30% of the overall course grade.
 
 The following websites include databases that can be utilized as primary source research for the final paper.
 
-{{% resource_link "f7b419ea-844c-4b81-97d3-7ca37191e2bb" "ACT UP Oral History Project" %}}
+[ACT UP Oral History Project](http://www.actuporalhistory.org/interviews/index.html)
 
-{{% resource_link "ab2965fc-48fe-4f9a-b103-bc475b1d25d7" "AIDS Education Posters Collection" %}}, University of Rochester Libraries
+[AIDS Education Posters Collection](http://aep.lib.rochester.edu/), University of Rochester Libraries
 
-{{% resource_link "e0e949c4-91fd-4f0d-8bae-e2ab9d5451a6" "Before Roe v. Wade: Voices that Shaped the Abortion Debate Before the Supreme Court's Ruling" %}}, Lillian Goldman Law Library, Yale Law School
+[Before Roe v. Wade: Voices that Shaped the Abortion Debate Before the Supreme Court's Ruling](http://documents.law.yale.edu/before-roe), Lillian Goldman Law Library, Yale Law School
 
-{{% resource_link "99048523-6ca8-4141-9289-5c64f454d42f" "CWLU Herstory Project: A History of the Chicago Women's Liberation Union" %}}
+[CWLU Herstory Project: A History of the Chicago Women's Liberation Union](http://www.cwluherstory.org/)
 
-{{% resource_link "5bded415-011e-412a-b3d0-48f2ffe6bed5" "Digital Public Library of America–LGBT" %}}
+[Digital Public Library of America–LGBT](https://dp.la/search?q=lgbt&subject%5b%5d=LGBT&utf8=%E2%9C%93)
 
-{{% resource_link "5373e8c0-7dd1-4063-a15d-368c2fdd6765" "Digital Transgender Archive" %}}
+[Digital Transgender Archive](https://www.digitaltransgenderarchive.net/)
 
-{{% resource_link "703c0bc3-5775-46d6-a170-fb0e1af3776a" "Discovering American Women's History Online" %}}
+[Discovering American Women's History Online](http://digital.mtsu.edu/cdm/landingpage/collection/women)
 
-{{% resource_link "85240205-247f-4807-8d14-a1b798984098" "The Feminist Chronicles, 1953–1993" %}}, the Feminist Majority Foundation
+[The Feminist Chronicles, 1953–1993](https://www.feminist.org/research/chronicles/chronicl.html), the Feminist Majority Foundation
 
-{{% resource_link "5fd44eeb-db45-4d9c-a4ca-1468aaf28d71" "John W. Hartman Center for Sales, Advertising, and Marketing History Digitized Collections" %}}, Duke University Libraries
+[John W. Hartman Center for Sales, Advertising, and Marketing History Digitized Collections](http://library.duke.edu/rubenstein/hartman/digitized), Duke University Libraries
 
-{{% resource_link "f69af049-a211-456c-bfd7-3c36e30a2dbc" "Mabel Hampton Collection" %}}, Lesbian Herstory Archives
+[Mabel Hampton Collection](http://herstories.prattinfoschool.nyc/omeka/collections/show/29), Lesbian Herstory Archives
 
-{{% resource_link "9af431dd-8328-471b-b988-78e84c1e678a" "Out History: It's About Time!" %}}
+[Out History: It's About Time!](http://www.outhistory.org/)
 
-{{% resource_link "2608d9f5-37ab-4b8e-baaf-ac8eafb79726" "Women's Liberation Movement Print Culture" %}}, Duke University Libraries Digital Collections
+[Women's Liberation Movement Print Culture](http://library.duke.edu/digitalcollections/wlmpc/), Duke University Libraries Digital Collections
