@@ -369,11 +369,9 @@ Student-Led Discussion and Closing Thoughts
 
 *Readings*
 
-[Affiliated](https://affiliated.mit.edu/).
-
 Chin, Carolyn, and Kamilla Tekiela. "Executive Summary." *The Status of Undergraduate Women at MIT*, February 2016.
 
-Dwyer, Sheila. "[Reporting Harassment at MIT: One Student's Call for Greater Support](http://tech.mit.edu/V136/N9/harassment.html)." *The Tech* 136, no. 9 (2016).
+Dwyer, Sheila. "Reporting Harassment at MIT: One Student's Call for Greater Support." *The Tech* 136, no. 9 (2016).
 
 **Organizing**
 
@@ -415,9 +413,9 @@ Koyama, Emi. "The Transfeminist Manifesto." In *Catching a Wave: Reclaiming Femi
 
 *Readings*
 
-Pollitt, Katha. "[There's a Reason Why Gay Marriage is Winning, and Abortion Rights are Losing: Are These Two 'Culture Wars' Issues Really That Similar?](https://www.thenation.com/article/theres-reason-gay-marriage-winning-while-abortion-rights-are-losing/)" *The Nation*, April 22, 2015.
+Pollitt, Katha. "[There's a Reason Why Gay Marriage is Winning, and Abortion Rights are Losing: Are These Two 'Culture Wars' Issues Really That Similar?](https://web.archive.org/web/20210421005307/https://www.thenation.com/article/archive/theres-reason-gay-marriage-winning-while-abortion-rights-are-losing/)" *The Nation*, April 22, 2015.
 
-———. "[Why Bernie Didn't Get My Vote](https://www.thenation.com/article/why-bernie-didnt-get-my-vote/)." *The Nation*, May 4, 2016.
+———. "[Why Bernie Didn't Get My Vote](https://web.archive.org/web/20210420164008/https://www.thenation.com/article/archive/why-bernie-didnt-get-my-vote/)." *The Nation*, May 4, 2016.
 
 Rampell, Catherine. "[The Sexiest Double Standard Behind Why Millennials Love Bernie Sanders](https://www.washingtonpost.com/opinions/the-double-standard-behind-why-millennials-love-bernie-sanders/2016/02/04/dce7b458-cb85-11e5-a7b2-5a2f824b02c9_story.html?tid=sm_fb&utm_term=.4285d063cf00)," *Washington Post*, February 4, 2016.
 
