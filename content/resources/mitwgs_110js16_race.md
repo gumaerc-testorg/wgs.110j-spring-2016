@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding sexual and gender identities:
   Readings.'
-file: /ol-ocw-studio-app/courses/wgs-110j-sexual-and-gender-identities-spring-2016/0b20c14646ef91e8d4153d5e2d2cba81_MITWGS_110JS16_Race.pdf
+file: /courses/wgs-110j-sexual-and-gender-identities-spring-2016/0b20c14646ef91e8d4153d5e2d2cba81_MITWGS_110JS16_Race.pdf
 file_size: 577174
 file_type: application/pdf
 learning_resource_types:
